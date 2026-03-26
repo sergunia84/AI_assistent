@@ -211,7 +211,8 @@ na-paru-ai-assistant/
 - Модель Qwen: https://huggingface.co/Qwen
 - Документация Google Calendar API: https://developers.google.com/calendar/api
 - Ресторан "На Пару": hello@naparu-restaurant.com
-
+- Пример работы ИИ-ассистента:
+https://github.com/sergunia84/AI_assistent/blob/main/AI%20Telegram.jpg?raw=true
 ---
 
 Проект разработан с целью демонстрации возможностей современных AI-платформ для автоматизации сервиса в сфере общественного питания.
