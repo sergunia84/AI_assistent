@@ -1,5 +1,6 @@
 # AI_assistent
 # ИИ-ассистент для ресторана "На Пару"
+Telegram: @naparax_bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Suvvy.ai-blue)](https://suvvy.ai/)
